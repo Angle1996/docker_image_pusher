@@ -1,4 +1,4 @@
 6053537/portainer-ce:2.19.5
 mysql:latest
 rabbitmq:3.13-management
-portainer-ce:2.20.3
+portainer/portainer-ce:2.20.3

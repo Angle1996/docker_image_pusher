@@ -2,3 +2,4 @@
 mysql:latest
 rabbitmq:3.13-management
 portainer/portainer-ce:2.20.3
+redis:latest

@@ -9,3 +9,4 @@ elasticsearch:8.14.1
 kibana:8.14.1
 apache/seata-server:latest
 nginx:latest
+bitnami/minio:latest
